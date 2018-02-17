@@ -1,5 +1,6 @@
 # Hack-HW Deep Learning Workshop
 ## Getting Started
+  * Install Git if necessary: https://git-scm.com/download/mac
   * If on a Mac, open a terminal
   * Download the following repository: `git clone https://github.com/mihail911/deep-hwack`
   * Go into the repository: `cd deep-hwack`
