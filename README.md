@@ -23,3 +23,5 @@
     print(sess.run(hello))
     ```
   * Now install Keras: `pip install keras`
+## Let's Code
+  * Open a new jupyter notebook: `jupyter notebook`
