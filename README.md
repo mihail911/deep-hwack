@@ -24,4 +24,5 @@
     ```
   * Now install Keras: `pip install keras`
 ## Let's Code
-  * Open a new jupyter notebook: `jupyter notebook`
+  * Open jupyter notebook: `jupyter notebook`
+  * Open the notebook included: `deep-hwack.ipynb`
